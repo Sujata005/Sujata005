@@ -1,17 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Sujata005/Sujata005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm **Sujata Bijalwan**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+•Currently pursuing `B.Tech.(CSE)`
+
+•**Everyday trying to become an upgraded version of myself .**
+
+- 🔭 I’m currently working on Discord chatbot 
+- 🌱 I’m currently learning Data structures and algorithms 
+- 💬 Let's connect on LinkedIn: 
+- 📫 How to reach me: sujatabijalwan057@gmail.com
+- 😄 Pronouns: she/her
 [![@bean_bean's Holopin board](https://holopin.io/api/user/board?user=bean_bean)](https://holopin.io/@bean_bean)

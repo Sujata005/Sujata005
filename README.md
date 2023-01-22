@@ -18,4 +18,6 @@ I'm **Sujata Bijalwan**
 
 ![Visitor Count](https://profile-counter.glitch.me/Sujata005/count.svg)
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sujata005&show_icons=true&theme=great-gatsby" alt="Sujata005" />
+
 [![@bean_bean's Holopin board](https://holopin.io/api/user/board?user=bean_bean)](https://holopin.io/@bean_bean)

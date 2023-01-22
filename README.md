@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 
 I'm **Sujata Bijalwan**
@@ -14,7 +14,7 @@ I'm **Sujata Bijalwan**
 - 😄 Pronouns: she/her
 
 
-## Visiter counter :
+### Visiter counter :
 
 ![Visitor Count](https://profile-counter.glitch.me/Sujata005/count.svg)
 

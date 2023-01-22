@@ -21,7 +21,7 @@ I'm **Sujata Bijalwan**
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sujata005&show_icons=true&theme=great-gatsby" alt="Sujata" />
   
   
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sujata005&theme=great-gatsby" alt="Sujata" /></p>
+  <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sujata005&theme=great-gatsby" alt="Sujata" /></p>
 
 
   

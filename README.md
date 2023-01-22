@@ -14,12 +14,6 @@ I'm **Sujata Bijalwan**
 - 😄 Pronouns: she/her
 
 
-
-<a href=#><img src="contributions.svg"></a>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
-</p>
+![Visitor Count](https://profile-counter.glitch.me/Sujata005/count.svg)
 
 [![@bean_bean's Holopin board](https://holopin.io/api/user/board?user=bean_bean)](https://holopin.io/@bean_bean)

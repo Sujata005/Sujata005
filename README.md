@@ -18,7 +18,7 @@ I'm **Sujata Bijalwan**
 
 ![Visitor Count](https://profile-counter.glitch.me/Sujata005/count.svg)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sujata005&show_icons=true&theme=great-gatsby" alt="Sujata" />
+<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sujata005&show_icons=true&theme=great-gatsby" alt="Sujata" />
   
   
   <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sujata005&theme=great-gatsby" alt="Sujata" /></p>

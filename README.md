@@ -9,7 +9,7 @@ I'm **Sujata Bijalwan**
 
 - 🔭 I’m currently working on Discord chatbot 
 - 🌱 I’m currently learning Data structures and algorithms 
-- 💬 Let's connect on LinkedIn: [LinkedIn](www.linkedin.com/in/sujata-bijalwan-7bab75229)
+- 💬 Let's connect on LinkedIn: [LinkedIn](https://www.linkedin.com/in/sujata-bijalwan-7bab75229/)
 - 📫 How to reach me: sujatabijalwan057@gmail.com
 - 😄 Pronouns: she/her
 

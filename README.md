@@ -29,4 +29,3 @@ I'm **Sujata Bijalwan**
   [![@bean_bean's Holopin board](https://holopin.io/api/user/board?user=bean_bean)](https://holopin.io/@bean_bean)
 
 
-![image](https://user-images.githubusercontent.com/112793420/217042098-0d1fcb1c-64a4-4dda-9ed1-cc50440c835d.png)

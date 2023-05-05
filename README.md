@@ -7,7 +7,7 @@ I'm **Sujata Bijalwan**
 
 •**Everyday trying to become an upgraded version of myself .**
 
-- 🔭 I’m currently working on .........
+- 🔭 I’m currently working on word cloud
 - 🌱 I’m currently learning Data structures and algorithms 
 - 💬 Let's connect on LinkedIn: [LinkedIn](https://www.linkedin.com/in/sujata-bijalwan-7bab75229/)
 - 📫 How to reach me: sujatabijalwan057@gmail.com

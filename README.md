@@ -14,12 +14,6 @@ I'm **Sujata Bijalwan**
 - 😄 Pronouns: she/her
 
 
-
-### Visitor Counter:
-
-![Visitor Counter](https://profile-counter.glitch.me/Sujata005/count.svg)
-
-
 <p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sujata005&show_icons=true&theme=great-gatsby" alt="Sujata" />
   
   

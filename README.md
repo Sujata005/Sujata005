@@ -16,7 +16,7 @@ I'm **Sujata Bijalwan**
 
 ### Visiter counter :
 
-![Visitor Count](https://profile-counter.glitch.me/Sujata005/count.svg)
+![Visitor Cou
 
 
 <p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sujata005&show_icons=true&theme=great-gatsby" alt="Sujata" />

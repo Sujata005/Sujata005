@@ -23,4 +23,4 @@ I'm **Sujata Bijalwan**
   
   [![@bean_bean's Holopin board](https://holopin.io/api/user/board?user=bean_bean)](https://holopin.io/@bean_bean)
 
-
+[![An image of @bean_bean's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bean_bean)](https://holopin.io/@bean_bean)

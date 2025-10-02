@@ -3,12 +3,12 @@
 
 I'm **Sujata Bijalwan**
 
-•Currently pursuing `B.Tech.(CSE)`
+•Completed `B.Tech.(CSE)`
 
-•**Everyday trying to become an upgraded version of myself .**
+•**Every day, trying to become an upgraded version of myself .**
 
-- 🔭 I’m currently working on word cloud
-- 🌱 I’m currently learning Data structures and algorithms 
+- 🔭 I’m currently learning about cloud services.
+- 🌱 I’m currently learning web development and making projects side by side.
 - 💬 Let's connect on LinkedIn: [LinkedIn](https://www.linkedin.com/in/sujata-bijalwan-7bab75229/)
 - 📫 How to reach me: sujatabijalwan057@gmail.com
 - 😄 Pronouns: she/her

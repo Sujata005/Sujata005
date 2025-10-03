@@ -19,4 +19,7 @@ I'm **Sujata Bijalwan**
   
   <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sujata005&theme=great-gatsby" alt="Sujata" /></p>
 
-[![An image of @bean_bean's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bean_bean)](https://holopin.io/@bean_bean)
+[![An image of @bean_bean's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bean_bean)](https://holopin.io/@bean_bean)  
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sujata005&theme=aura)

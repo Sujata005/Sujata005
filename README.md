@@ -7,8 +7,9 @@ I'm **Sujata Bijalwan**
 
 •**Every day, trying to become an upgraded version of myself .**
 
-- 🔭 I’m currently learning about cloud services.
-- 🌱 I’m currently learning web development and making projects side by side.
+- 🔭 I’m developing and deploying projects.
+- 🌱 I’m currently learning cloud services.
+- 🎄I wish to learn German.
 - 💬 Let's connect on LinkedIn: [LinkedIn](https://www.linkedin.com/in/sujata-bijalwan-7bab75229/)
 - 📫 How to reach me: sujatabijalwan057@gmail.com
 - 😄 Pronouns: she/her

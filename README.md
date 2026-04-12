@@ -22,5 +22,3 @@ I'm **Sujata Bijalwan**
 
 [![An image of @bean_bean's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bean_bean)](https://holopin.io/@bean_bean)  
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sujata005&theme=aura)

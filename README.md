@@ -22,3 +22,20 @@ I'm **Sujata Bijalwan**
 
 [![An image of @bean_bean's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bean_bean)](https://holopin.io/@bean_bean)  
 
+![Uploading image.png…]()
+
+## Organizations
+
+<p align="left">
+  <a href="https://github.com/ztm-academy">
+    <img src="https://avatars.githubusercontent.com/u/59784079?s=48&v=4" width="48" height="48"/>
+  </a>
+  
+  <a href="https://github.com/girlscript">
+    <img src="https://avatars.githubusercontent.com/u/20369977?s=48&v=4" width="48" height="48"/>
+  </a>
+
+  <a href="https://github.com/ossu">
+    <img src="https://avatars.githubusercontent.com/u/5175070?s=48&v=4" width="48" height="48"/>
+  </a>
+</p>

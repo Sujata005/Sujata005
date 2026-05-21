@@ -26,4 +26,4 @@
 </p>
 
 [![An image of @bean_bean's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bean_bean)](https://holopin.io/@bean_bean)  
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Sujata005/Sujata005/blob/output/github-contribution-grid-snake.svg)

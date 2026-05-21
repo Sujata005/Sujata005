@@ -1,7 +1,8 @@
-# Hi there 👋
+<h1 align="center">Hey 👋, I'm Sujata</h1>
 
-
-I'm **Sujata Bijalwan**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F79A&center=true&vCenter=true&width=600&lines=AI+Developer;Full+Stack+Learner;Open+Source+Contributor;Building+cool+things+🚀" />
+</p>
 
 •Completed `B.Tech.(CSE)`
 
@@ -14,10 +15,15 @@ I'm **Sujata Bijalwan**
 - 📫 How to reach me: sujatabijalwan057@gmail.com
 - 😄 Pronouns: she/her
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,mongodb,git,github,aws,cpp" />
+</p>
 
-<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sujata005&show_icons=true&theme=great-gatsby" alt="Sujata" />
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sujata005&show_icons=true&theme=tokyonight" />
   
-  
-  <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sujata005&theme=great-gatsby" alt="Sujata" /></p>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Sujata005&theme=tokyonight" />
+</p>
 
 [![An image of @bean_bean's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bean_bean)](https://holopin.io/@bean_bean)  
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
